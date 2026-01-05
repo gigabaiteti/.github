@@ -11,9 +11,9 @@
 
 A **Gigabaite** é uma empresa de tecnologia pensada para entregar inovação e eficiência. Desenvolvemos softwares e fornecemos consultoria em TI e infra para impulsionar o crescimento de nossos clientes e tornar real a transformação digital.
 
-* 🌍 Sediada em **Padre Paraíso - MG** (Vale do Jequitinhonha).
-* 🚀 Transformaos ideias em código limpo e escalável.
-* 💡 Cultura forte de aprendizado contínuo, excelência técnica e amor ao open-source.
+* 🌍 Sediada em **Padre Paraíso - MG**.
+* 🚀 Transformamos ideias em código limpo e escalável.
+* 💡 Cultura forte de aprendizado contínuo, excelência técnica e amor ao software livre.
 
 ---
 
